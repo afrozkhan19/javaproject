@@ -1,0 +1,14 @@
+public class Hello
+{
+public static void main(String args[])
+ {
+      int abc[]=new int[3];
+         abc[0]=34;
+           abc[1]=35;
+            abc[2]=36;
+System.out.println(abc[1]+""+abc[2]);
+
+
+   }
+
+}
